@@ -31,3 +31,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # link de deploy
 https://chatty-32e79.web.app/
+
+
+# login
+
+![image](https://user-images.githubusercontent.com/45043430/161966479-e8be608d-0963-4d53-8b97-513fead955e2.png)
+
+# sign up
+
+![image](https://user-images.githubusercontent.com/45043430/161966724-7e5fc697-2233-4a9f-b9e6-e329e98a74a9.png)
+
